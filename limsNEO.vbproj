@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>limsNEO</RootNamespace>
+	  <TargetFramework>net471</TargetFramework>
+	  <OutputType>Library</OutputType>
+	  <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualBasic" Version="10.3.0" />
+    <PackageReference Include="ODP.Oracle.DataAccess.x64" Version="4.121.2" />
+    <PackageReference Include="Oracle.Data.Access.2.11.2.1.0_x64" Version="1.0.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>

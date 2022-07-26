@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAlJ28SLXJ6MkQaLd0qQq5dMyb+JpqcPvA+owFO+wtu3HU5vPYA2gy1H2wujNuaYqLKczCUS5VCr4g6q+qPdOQ==",
+  "success": true,
+  "projectFilePath": "C:\\CXProject\\LIMSAPI\\limsNEO\\limsNEO.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dikapratama\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
+    "C:\\Users\\dikapratama\\.nuget\\packages\\odp.oracle.dataaccess.x64\\4.121.2\\odp.oracle.dataaccess.x64.4.121.2.nupkg.sha512",
+    "C:\\Users\\dikapratama\\.nuget\\packages\\oracle.data.access.2.11.2.1.0_x64\\1.0.0\\oracle.data.access.2.11.2.1.0_x64.1.0.0.nupkg.sha512",
+    "C:\\Users\\dikapratama\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\dikapratama\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\dikapratama\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\dikapratama\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

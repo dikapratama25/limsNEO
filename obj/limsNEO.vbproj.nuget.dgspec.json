@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CXProject\\LIMSAPI\\limsNEO\\limsNEO.vbproj": {}
+  },
+  "projects": {
+    "C:\\CXProject\\LIMSAPI\\limsNEO\\limsNEO.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CXProject\\LIMSAPI\\limsNEO\\limsNEO.vbproj",
+        "projectName": "limsNEO",
+        "projectPath": "C:\\CXProject\\LIMSAPI\\limsNEO\\limsNEO.vbproj",
+        "packagesPath": "C:\\Users\\dikapratama\\.nuget\\packages\\",
+        "outputPath": "C:\\CXProject\\LIMSAPI\\limsNEO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dikapratama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "targetAlias": "net471",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "targetAlias": "net471",
+          "dependencies": {
+            "Microsoft.VisualBasic": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "ODP.Oracle.DataAccess.x64": {
+              "target": "Package",
+              "version": "[4.121.2, )"
+            },
+            "Oracle.Data.Access.2.11.2.1.0_x64": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
